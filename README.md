@@ -1,0 +1,71 @@
+🧾 PUMA Sales Analysis – Power BI Project
+
+
+📊 Overview
+This project presents a comprehensive sales analysis for PUMA, leveraging Power BI to uncover insights across multiple business dimensions such as monthly trends, regional performance, product category contribution, and retailer sales breakdown. The goal is to aid business decision-makers in identifying key performance patterns and opportunities for optimization.
+
+📌 Key Insights
+Total Sales: $885M
+
+Operating Profit: $327.64M
+
+Operating Margin: 42%
+
+Price per Unit: $45
+
+📅 Sales by Month
+Highest sales recorded in March ($94M) and November ($91M).
+
+Lowest performance in May ($56M), indicating potential for marketing efforts or product push during that period.
+
+🌍 Sales by Region
+Top Performing Region: West – $255M (28.83%)
+
+Followed by:
+
+Northeast – $186M (21.05%)
+
+Southeast – $163M (18.43%)
+
+South – $145M (16.34%)
+
+Midwest – $136M (15.34%)
+
+👟 Sales by Product Category
+Men's Street Footwear leads with $204M+ in sales.
+
+Other top categories include:
+
+Women's Apparel
+
+Men's Athletic Footwear
+
+Women's Street Footwear
+
+Men's Apparel
+
+Women's Athletic Footwear
+
+🏬 Sales by Retailer
+Top Retailers:
+
+West Gear – $242M
+
+Foot Locker – $218M
+
+Sports Direct – $182M
+
+Other retailers include Kohl’s, Walmart, and Amazon.
+
+🛠️ Tools Used
+Power BI Desktop
+
+DAX (Data Analysis Expressions)
+
+Custom visualizations for bar charts, maps, and KPIs.
+
+📁 File
+puma sales analysis.pdf: Final report exported from Power BI showcasing visual insights.
+
+🔚 Conclusion
+The dashboard provides valuable business intelligence on Puma's sales performance. Stakeholders can utilize this to track KPIs, identify high-performing categories and regions, and make data-driven decisions for marketing and inventory strategies.
