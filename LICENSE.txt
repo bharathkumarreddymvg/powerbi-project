@@ -1,4 +1,5 @@
 🧾 PUMA Sales Analysis – Power BI Project
+
 📊 Overview
 This project presents a comprehensive sales analysis for PUMA, leveraging Power BI to uncover insights across multiple business dimensions such as monthly trends, regional performance, product category contribution, and retailer sales breakdown. The goal is to aid business decision-makers in identifying key performance patterns and opportunities for optimization.
 
